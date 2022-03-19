@@ -1,7 +1,7 @@
 ## [🔙 view_profile](https://github.com/EdiJunior88/view_profile)
 
-### :octocat: [NewTab_Academy_Projetos](https://github.com/EdiJunior88/NewTab_Academy_Projetos)
-![Image of view_profile](https://github.com/EdiJunior88/view_profile/blob/master/graph/437383648/large/year.png)
+### :octocat: [EdiJunior88](https://github.com/EdiJunior88/EdiJunior88)
+![Image of view_profile](https://github.com/EdiJunior88/view_profile/blob/master/graph/348398388/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/3/1</code>
 		</td>
 		<td>
-			<code>10</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>57</code>
+			<code>19</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of view_profile](https://github.com/EdiJunior88/view_profile/blob/master/svg/437383648/badge.svg)](https://github.com/EdiJunior88/view_profile/blob/master/readme/437383648/week.md)
+[![Image of view_profile](https://github.com/EdiJunior88/view_profile/blob/master/svg/348398388/badge.svg)](https://github.com/EdiJunior88/view_profile/blob/master/readme/348398388/week.md)
 ```readme
-[![Image of view_profile](https://github.com/EdiJunior88/view_profile/blob/master/svg/437383648/badge.svg)](https://github.com/EdiJunior88/view_profile/blob/master/readme/437383648/week.md)
+[![Image of view_profile](https://github.com/EdiJunior88/view_profile/blob/master/svg/348398388/badge.svg)](https://github.com/EdiJunior88/view_profile/blob/master/readme/348398388/week.md)
 ```
 ### Header
-# NewTab_Academy_Projetos [<img alt="Image of view_profile" src="https://github.com/EdiJunior88/view_profile/blob/master/graph/437383648/small/year.png" height="20">](https://github.com/EdiJunior88/view_profile/blob/master/readme/437383648/year.md)
+# EdiJunior88 [<img alt="Image of view_profile" src="https://github.com/EdiJunior88/view_profile/blob/master/graph/348398388/small/year.png" height="20">](https://github.com/EdiJunior88/view_profile/blob/master/readme/348398388/year.md)
 ```readme
-# NewTab_Academy_Projetos [<img alt="Image of view_profile" src="https://github.com/EdiJunior88/view_profile/blob/master/graph/437383648/small/year.png" height="20">](https://github.com/EdiJunior88/view_profile/blob/master/readme/437383648/year.md)
+# EdiJunior88 [<img alt="Image of view_profile" src="https://github.com/EdiJunior88/view_profile/blob/master/graph/348398388/small/year.png" height="20">](https://github.com/EdiJunior88/view_profile/blob/master/readme/348398388/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

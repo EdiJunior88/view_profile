@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/16 4:38 AM UTC
+			2022/3/17 4:38 AM UTC
 		</td>
 		<td>
 			10
@@ -35,9 +35,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/437383648/small/year.png" height="20"> 57
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/348398388/year.md">
+				EdiJunior88
+			</a>
+		</td>
+		<td>
+			2022/3/16 4:44 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/348398388/small/year.png" height="20"> 19
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/3/19 4:38 AM UTC</i></small>
+<small><i>Last updated on 2022/3/19 4:44 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
