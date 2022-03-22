@@ -1,6 +1,6 @@
 ## [🔙 view_profile](https://github.com/EdiJunior88/view_profile)
 
-### :octocat: [React_Guia_do_Iniciate](https://github.com/EdiJunior88/React_Guia_do_Iniciate)
+### :octocat: [React_Guia_do_Iniciante](https://github.com/EdiJunior88/React_Guia_do_Iniciante)
 ![Image of view_profile](https://github.com/EdiJunior88/view_profile/blob/master/graph/466304916/large/year.png)
 
 <details>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/3/22 12:11 PM UTC</i></small>
+<small><i>Last updated on 2022/3/22 1:16 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of view_profile](https://github.com/EdiJunior88/view_profile/blob/master/svg/466304916/badge.svg)](https://github.com/EdiJunior88/view_profile/blob/master/readme/466304916/week.md)
 ```
 ### Header
-# React_Guia_do_Iniciate [<img alt="Image of view_profile" src="https://github.com/EdiJunior88/view_profile/blob/master/graph/466304916/small/year.png" height="20">](https://github.com/EdiJunior88/view_profile/blob/master/readme/466304916/year.md)
+# React_Guia_do_Iniciante [<img alt="Image of view_profile" src="https://github.com/EdiJunior88/view_profile/blob/master/graph/466304916/small/year.png" height="20">](https://github.com/EdiJunior88/view_profile/blob/master/readme/466304916/year.md)
 ```readme
-# React_Guia_do_Iniciate [<img alt="Image of view_profile" src="https://github.com/EdiJunior88/view_profile/blob/master/graph/466304916/small/year.png" height="20">](https://github.com/EdiJunior88/view_profile/blob/master/readme/466304916/year.md)
+# React_Guia_do_Iniciante [<img alt="Image of view_profile" src="https://github.com/EdiJunior88/view_profile/blob/master/graph/466304916/small/year.png" height="20">](https://github.com/EdiJunior88/view_profile/blob/master/readme/466304916/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
