@@ -467,9 +467,409 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/327090907/small/year.png" height="20"> 1
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/322061839/year.md">
+				RL_System_HTML5
+			</a>
+		</td>
+		<td>
+			2022/3/19 1:32 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/322061839/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/308687595/year.md">
+				Curso_em_Video_HTML5_e_CSS3
+			</a>
+		</td>
+		<td>
+			2022/3/19 1:32 AM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/308687595/small/year.png" height="20"> 68
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/405986918/year.md">
+				School_Of_Net_CSS
+			</a>
+		</td>
+		<td>
+			2022/3/19 1:32 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/405986918/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/337533910/year.md">
+				Curso_em_Video_HTML5_e_CSS3_Modulo_2
+			</a>
+		</td>
+		<td>
+			2022/3/19 1:32 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/337533910/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/315388139/year.md">
+				IFRS_CURSO_HTML_2
+			</a>
+		</td>
+		<td>
+			2022/3/19 1:33 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/315388139/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/281743425/year.md">
+				IFRS_CURSO_HTML
+			</a>
+		</td>
+		<td>
+			2022/3/19 1:33 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/281743425/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/338116633/year.md">
+				School_Of_Net_Multimidia
+			</a>
+		</td>
+		<td>
+			2022/3/19 1:33 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/338116633/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/408629242/year.md">
+				cartao_de_visitas
+			</a>
+		</td>
+		<td>
+			2022/3/19 1:33 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/408629242/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/341657910/year.md">
+				Rocketseat_HTML
+			</a>
+		</td>
+		<td>
+			2022/3/19 12:00 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/341657910/small/year.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/346778408/year.md">
+				Rocketseat_CSS
+			</a>
+		</td>
+		<td>
+			2022/3/19 1:33 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/346778408/small/year.png" height="20"> 4
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/339103732/year.md">
+				DigitalHouse_Codigo_Preto
+			</a>
+		</td>
+		<td>
+			2022/3/19 1:33 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/339103732/small/year.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/262135613/year.md">
+				Zabbix
+			</a>
+		</td>
+		<td>
+			2022/3/19 1:34 AM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/262135613/small/year.png" height="20"> 4
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/358603953/year.md">
+				Cataline_HTML_e_CSS
+			</a>
+		</td>
+		<td>
+			2022/3/19 1:34 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/358603953/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/388823599/year.md">
+				Desenvolvimento_Web_Completo_2021
+			</a>
+		</td>
+		<td>
+			2022/3/19 1:34 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/388823599/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/376919003/year.md">
+				Site_Maria_Bolo
+			</a>
+		</td>
+		<td>
+			2022/3/19 1:34 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/376919003/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/328673607/year.md">
+				Curso_em_Video_JavaScript
+			</a>
+		</td>
+		<td>
+			2022/3/19 1:34 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/328673607/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/399821676/year.md">
+				Projeto_Verificar_KWh
+			</a>
+		</td>
+		<td>
+			2022/3/19 1:34 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/399821676/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/345736539/year.md">
+				IGTI_Bootcamp_Desenvolvedor_Front_End
+			</a>
+		</td>
+		<td>
+			2022/3/19 1:34 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/345736539/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/252348187/year.md">
+				QuarentenaDev_Alura
+			</a>
+		</td>
+		<td>
+			2022/3/19 1:35 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/252348187/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/256079566/year.md">
+				K19_Treinamentos_HTML_CSS_JAVASCRIPT
+			</a>
+		</td>
+		<td>
+			2022/3/19 1:35 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/256079566/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/309781038/year.md">
+				School_Of_Net_C_Shap
+			</a>
+		</td>
+		<td>
+			2022/3/19 1:35 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/309781038/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/300094398/year.md">
+				Microsoft_C_Sharp
+			</a>
+		</td>
+		<td>
+			2022/3/19 1:35 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/300094398/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/302481454/year.md">
+				Udemy_fundamentos_C_sharp
+			</a>
+		</td>
+		<td>
+			2022/3/19 1:35 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/302481454/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/323686345/year.md">
+				K19_C_Sharp
+			</a>
+		</td>
+		<td>
+			2022/3/19 1:35 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/323686345/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/308116415/year.md">
+				App_Inventor_Projetos_Pessoais
+			</a>
+		</td>
+		<td>
+			2022/3/19 1:35 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/308116415/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/3/22 12:34 AM UTC</i></small>
+<small><i>Last updated on 2022/3/22 1:36 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
