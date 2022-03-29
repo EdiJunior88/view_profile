@@ -709,22 +709,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/328673607/year.md">
-				Curso_em_Video_JavaScript
-			</a>
-		</td>
-		<td>
-			2022/3/27 12:39 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/328673607/small/year.png" height="20"> 1
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/399821676/year.md">
 				Projeto_Verificar_KWh
 			</a>
@@ -869,7 +853,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/3/29 12:44 AM UTC</i></small>
+<small><i>Last updated on 2022/3/29 6:19 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
