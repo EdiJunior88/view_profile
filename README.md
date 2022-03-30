@@ -101,22 +101,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/466304916/year.md">
-				O_Caminho_Para_Aprender_React
-			</a>
-		</td>
-		<td>
-			2022/3/28 12:30 AM UTC
-		</td>
-		<td>
-			8
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/466304916/small/year.png" height="20"> 63
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/433233073/year.md">
 				FreeCodeCamp_Acessibilidade_Aplicada
 			</a>
@@ -869,7 +853,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/3/30 12:18 PM UTC</i></small>
+<small><i>Last updated on 2022/3/30 6:17 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
