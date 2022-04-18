@@ -118,7 +118,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	<tr>
 		<td>
 			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/475955856/year.md">
-				Tutorial_de_React
+				O_Caminho_Para_Aprender_React
 			</a>
 		</td>
 		<td>
@@ -885,7 +885,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/4/18 6:15 PM UTC</i></small>
+<small><i>Last updated on 2022/4/18 10:40 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

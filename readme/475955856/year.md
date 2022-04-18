@@ -1,6 +1,6 @@
 ## [🔙 view_profile](https://github.com/EdiJunior88/view_profile)
 
-### :octocat: [Tutorial_de_React](https://github.com/EdiJunior88/Tutorial_de_React)
+### :octocat: [O_Caminho_Para_Aprender_React](https://github.com/EdiJunior88/O_Caminho_Para_Aprender_React)
 ![Image of view_profile](https://github.com/EdiJunior88/view_profile/blob/master/graph/475955856/large/year.png)
 
 <details>
@@ -23,10 +23,10 @@
 			<code>2022/4/1</code>
 		</td>
 		<td>
-			<code>10</code>
+			<code>11</code>
 		</td>
 		<td>
-			<code>45</code>
+			<code>53</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/4/18 6:09 PM UTC</i></small>
+<small><i>Last updated on 2022/4/18 10:33 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of view_profile](https://github.com/EdiJunior88/view_profile/blob/master/svg/475955856/badge.svg)](https://github.com/EdiJunior88/view_profile/blob/master/readme/475955856/week.md)
 ```
 ### Header
-# Tutorial_de_React [<img alt="Image of view_profile" src="https://github.com/EdiJunior88/view_profile/blob/master/graph/475955856/small/year.png" height="20">](https://github.com/EdiJunior88/view_profile/blob/master/readme/475955856/year.md)
+# O_Caminho_Para_Aprender_React [<img alt="Image of view_profile" src="https://github.com/EdiJunior88/view_profile/blob/master/graph/475955856/small/year.png" height="20">](https://github.com/EdiJunior88/view_profile/blob/master/readme/475955856/year.md)
 ```readme
-# Tutorial_de_React [<img alt="Image of view_profile" src="https://github.com/EdiJunior88/view_profile/blob/master/graph/475955856/small/year.png" height="20">](https://github.com/EdiJunior88/view_profile/blob/master/readme/475955856/year.md)
+# O_Caminho_Para_Aprender_React [<img alt="Image of view_profile" src="https://github.com/EdiJunior88/view_profile/blob/master/graph/475955856/small/year.png" height="20">](https://github.com/EdiJunior88/view_profile/blob/master/readme/475955856/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
