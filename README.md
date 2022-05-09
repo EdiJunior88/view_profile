@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:00 AM UTC
+			2022/5/7 12:33 AM UTC
 		</td>
 		<td>
 			38
@@ -42,13 +42,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:00 AM UTC
+			2022/5/7 12:00 AM UTC
 		</td>
 		<td>
-			57
+			59
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/437383648/small/year.png" height="20"> 461
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/437383648/small/year.png" height="20"> 465
 		</td>
 	</tr>
 	<tr>
@@ -58,13 +58,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:32 AM UTC
+			2022/5/7 12:00 AM UTC
 		</td>
 		<td>
-			8
+			9
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/348398388/small/year.png" height="20"> 71
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/348398388/small/year.png" height="20"> 72
 		</td>
 	</tr>
 	<tr>
@@ -74,13 +74,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:33 AM UTC
+			2022/5/7 12:00 AM UTC
 		</td>
 		<td>
-			32
+			33
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/467595690/small/year.png" height="20"> 207
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/467595690/small/year.png" height="20"> 208
 		</td>
 	</tr>
 	<tr>
@@ -90,13 +90,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:33 AM UTC
+			2022/5/7 12:00 AM UTC
 		</td>
 		<td>
-			13
+			15
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/429826272/small/year.png" height="20"> 25
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/429826272/small/year.png" height="20"> 28
 		</td>
 	</tr>
 	<tr>
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:33 AM UTC
+			2022/5/7 12:34 AM UTC
 		</td>
 		<td>
 			3
@@ -122,13 +122,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:33 AM UTC
+			2022/5/7 12:00 AM UTC
 		</td>
 		<td>
-			17
+			18
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/475955856/small/year.png" height="20"> 136
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/475955856/small/year.png" height="20"> 137
 		</td>
 	</tr>
 	<tr>
@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:33 AM UTC
+			2022/5/7 12:34 AM UTC
 		</td>
 		<td>
 			8
@@ -154,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:33 AM UTC
+			2022/5/7 12:34 AM UTC
 		</td>
 		<td>
 			5
@@ -170,13 +170,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:34 AM UTC
+			2022/5/7 12:00 AM UTC
 		</td>
 		<td>
-			15
+			16
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/464997189/small/year.png" height="20"> 77
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/464997189/small/year.png" height="20"> 78
 		</td>
 	</tr>
 	<tr>
@@ -186,7 +186,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:34 AM UTC
+			2022/5/7 12:35 AM UTC
 		</td>
 		<td>
 			39
@@ -202,7 +202,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:34 AM UTC
+			2022/5/7 12:35 AM UTC
 		</td>
 		<td>
 			1
@@ -218,7 +218,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:34 AM UTC
+			2022/5/7 12:35 AM UTC
 		</td>
 		<td>
 			1
@@ -234,7 +234,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:34 AM UTC
+			2022/5/7 12:35 AM UTC
 		</td>
 		<td>
 			14
@@ -250,7 +250,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:35 AM UTC
+			2022/5/7 12:36 AM UTC
 		</td>
 		<td>
 			4
@@ -266,7 +266,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:35 AM UTC
+			2022/5/7 12:36 AM UTC
 		</td>
 		<td>
 			3
@@ -282,7 +282,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:35 AM UTC
+			2022/5/7 12:36 AM UTC
 		</td>
 		<td>
 			1
@@ -298,7 +298,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:00 AM UTC
+			2022/5/7 12:36 AM UTC
 		</td>
 		<td>
 			11
@@ -314,13 +314,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:35 AM UTC
+			2022/5/7 12:00 AM UTC
 		</td>
 		<td>
-			11
+			13
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/433848897/small/year.png" height="20"> 61
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/433848897/small/year.png" height="20"> 63
 		</td>
 	</tr>
 	<tr>
@@ -330,7 +330,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:36 AM UTC
+			2022/5/7 12:36 AM UTC
 		</td>
 		<td>
 			3
@@ -346,7 +346,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:36 AM UTC
+			2022/5/7 12:37 AM UTC
 		</td>
 		<td>
 			5
@@ -362,7 +362,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:36 AM UTC
+			2022/5/7 12:37 AM UTC
 		</td>
 		<td>
 			4
@@ -378,7 +378,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:36 AM UTC
+			2022/5/7 12:37 AM UTC
 		</td>
 		<td>
 			8
@@ -394,7 +394,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:36 AM UTC
+			2022/5/7 12:37 AM UTC
 		</td>
 		<td>
 			1
@@ -410,7 +410,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:36 AM UTC
+			2022/5/7 12:37 AM UTC
 		</td>
 		<td>
 			6
@@ -426,13 +426,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:37 AM UTC
+			2022/5/7 12:00 AM UTC
 		</td>
 		<td>
-			6
+			7
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/344201260/small/year.png" height="20"> 9
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/344201260/small/year.png" height="20"> 10
 		</td>
 	</tr>
 	<tr>
@@ -442,7 +442,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:37 AM UTC
+			2022/5/7 12:38 AM UTC
 		</td>
 		<td>
 			1
@@ -458,7 +458,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:37 AM UTC
+			2022/5/7 12:38 AM UTC
 		</td>
 		<td>
 			5
@@ -474,7 +474,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:37 AM UTC
+			2022/5/7 12:38 AM UTC
 		</td>
 		<td>
 			2
@@ -490,7 +490,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:37 AM UTC
+			2022/5/7 12:38 AM UTC
 		</td>
 		<td>
 			1
@@ -506,13 +506,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:38 AM UTC
+			2022/5/7 12:00 AM UTC
 		</td>
 		<td>
-			23
+			24
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/308687595/small/year.png" height="20"> 225
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/308687595/small/year.png" height="20"> 227
 		</td>
 	</tr>
 	<tr>
@@ -522,7 +522,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:38 AM UTC
+			2022/5/7 12:39 AM UTC
 		</td>
 		<td>
 			2
@@ -538,13 +538,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:38 AM UTC
+			2022/5/7 12:00 AM UTC
 		</td>
 		<td>
-			10
+			11
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/337533910/small/year.png" height="20"> 41
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/337533910/small/year.png" height="20"> 43
 		</td>
 	</tr>
 	<tr>
@@ -554,7 +554,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:38 AM UTC
+			2022/5/7 12:39 AM UTC
 		</td>
 		<td>
 			1
@@ -570,7 +570,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:38 AM UTC
+			2022/5/7 12:39 AM UTC
 		</td>
 		<td>
 			3
@@ -586,7 +586,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:38 AM UTC
+			2022/5/7 12:39 AM UTC
 		</td>
 		<td>
 			2
@@ -602,7 +602,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:39 AM UTC
+			2022/5/7 12:40 AM UTC
 		</td>
 		<td>
 			1
@@ -618,7 +618,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:39 AM UTC
+			2022/5/7 12:40 AM UTC
 		</td>
 		<td>
 			6
@@ -634,7 +634,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:39 AM UTC
+			2022/5/7 12:40 AM UTC
 		</td>
 		<td>
 			5
@@ -650,7 +650,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:00 AM UTC
+			2022/5/7 12:40 AM UTC
 		</td>
 		<td>
 			5
@@ -666,7 +666,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:39 AM UTC
+			2022/5/7 12:40 AM UTC
 		</td>
 		<td>
 			32
@@ -682,7 +682,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:40 AM UTC
+			2022/5/7 12:40 AM UTC
 		</td>
 		<td>
 			3
@@ -698,7 +698,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:40 AM UTC
+			2022/5/7 12:41 AM UTC
 		</td>
 		<td>
 			4
@@ -714,7 +714,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:40 AM UTC
+			2022/5/7 12:41 AM UTC
 		</td>
 		<td>
 			3
@@ -730,7 +730,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:40 AM UTC
+			2022/5/7 12:41 AM UTC
 		</td>
 		<td>
 			3
@@ -746,7 +746,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:40 AM UTC
+			2022/5/7 12:41 AM UTC
 		</td>
 		<td>
 			4
@@ -762,7 +762,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:41 AM UTC
+			2022/5/7 12:41 AM UTC
 		</td>
 		<td>
 			1
@@ -778,13 +778,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:41 AM UTC
+			2022/5/7 12:00 AM UTC
 		</td>
 		<td>
-			1
+			2
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/252348187/small/year.png" height="20"> 1
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/252348187/small/year.png" height="20"> 3
 		</td>
 	</tr>
 	<tr>
@@ -794,13 +794,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:41 AM UTC
+			2022/5/7 12:00 AM UTC
 		</td>
 		<td>
-			1
+			2
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/256079566/small/year.png" height="20"> 1
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/256079566/small/year.png" height="20"> 4
 		</td>
 	</tr>
 	<tr>
@@ -810,7 +810,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:41 AM UTC
+			2022/5/7 12:42 AM UTC
 		</td>
 		<td>
 			1
@@ -826,13 +826,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:41 AM UTC
+			2022/5/7 12:00 AM UTC
 		</td>
 		<td>
-			1
+			2
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/300094398/small/year.png" height="20"> 1
+			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/300094398/small/year.png" height="20"> 3
 		</td>
 	</tr>
 	<tr>
@@ -842,7 +842,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:41 AM UTC
+			2022/5/7 12:42 AM UTC
 		</td>
 		<td>
 			4
@@ -858,7 +858,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:42 AM UTC
+			2022/5/7 12:42 AM UTC
 		</td>
 		<td>
 			2
@@ -874,7 +874,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/6 12:42 AM UTC
+			2022/5/7 12:43 AM UTC
 		</td>
 		<td>
 			1
@@ -885,7 +885,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/5/8 6:18 PM UTC</i></small>
+<small><i>Last updated on 2022/5/9 12:43 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
