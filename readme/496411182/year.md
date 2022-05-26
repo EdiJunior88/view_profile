@@ -1,7 +1,7 @@
 ## [🔙 view_profile](https://github.com/EdiJunior88/view_profile)
 
-### :octocat: [FreeCodeCamp_JavaScript_Basico](https://github.com/EdiJunior88/FreeCodeCamp_JavaScript_Basico)
-![Image of view_profile](https://github.com/EdiJunior88/view_profile/blob/master/graph/451653997/large/year.png)
+### :octocat: [NewTab_Academy_Angular](https://github.com/EdiJunior88/NewTab_Academy_Angular)
+![Image of view_profile](https://github.com/EdiJunior88/view_profile/blob/master/graph/496411182/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/5/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>2</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>7</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/4/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2022/3/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/5/26 1:00 PM UTC</i></small>
+<small><i>Last updated on 2022/5/26 12:57 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of view_profile](https://github.com/EdiJunior88/view_profile/blob/master/svg/451653997/badge.svg)](https://github.com/EdiJunior88/view_profile/blob/master/readme/451653997/week.md)
+[![Image of view_profile](https://github.com/EdiJunior88/view_profile/blob/master/svg/496411182/badge.svg)](https://github.com/EdiJunior88/view_profile/blob/master/readme/496411182/week.md)
 ```readme
-[![Image of view_profile](https://github.com/EdiJunior88/view_profile/blob/master/svg/451653997/badge.svg)](https://github.com/EdiJunior88/view_profile/blob/master/readme/451653997/week.md)
+[![Image of view_profile](https://github.com/EdiJunior88/view_profile/blob/master/svg/496411182/badge.svg)](https://github.com/EdiJunior88/view_profile/blob/master/readme/496411182/week.md)
 ```
 ### Header
-# FreeCodeCamp_JavaScript_Basico [<img alt="Image of view_profile" src="https://github.com/EdiJunior88/view_profile/blob/master/graph/451653997/small/year.png" height="20">](https://github.com/EdiJunior88/view_profile/blob/master/readme/451653997/year.md)
+# NewTab_Academy_Angular [<img alt="Image of view_profile" src="https://github.com/EdiJunior88/view_profile/blob/master/graph/496411182/small/year.png" height="20">](https://github.com/EdiJunior88/view_profile/blob/master/readme/496411182/year.md)
 ```readme
-# FreeCodeCamp_JavaScript_Basico [<img alt="Image of view_profile" src="https://github.com/EdiJunior88/view_profile/blob/master/graph/451653997/small/year.png" height="20">](https://github.com/EdiJunior88/view_profile/blob/master/readme/451653997/year.md)
+# NewTab_Academy_Angular [<img alt="Image of view_profile" src="https://github.com/EdiJunior88/view_profile/blob/master/graph/496411182/small/year.png" height="20">](https://github.com/EdiJunior88/view_profile/blob/master/readme/496411182/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
