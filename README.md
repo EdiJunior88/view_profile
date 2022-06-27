@@ -277,22 +277,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/457045037/year.md">
-				login_form_challenge
-			</a>
-		</td>
-		<td>
-			2022/6/25 12:39 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/457045037/small/year.png" height="20"> 1
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/450958409/year.md">
 				NewTab_Academy_Projeto_Guiado_JavaScript
 			</a>
@@ -949,7 +933,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/6/27 12:22 PM UTC</i></small>
+<small><i>Last updated on 2022/6/27 6:18 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
