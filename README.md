@@ -325,22 +325,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/444111066/year.md">
-				ONE_Oracle_Next_Education_Logica_de_Programacao_1
-			</a>
-		</td>
-		<td>
-			2022/7/18 12:41 AM UTC
-		</td>
-		<td>
-			8
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/444111066/small/year.png" height="20"> 49
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/441574015/year.md">
 				NewTab_Academy_Projeto_Individual
 			</a>
@@ -821,22 +805,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/252348187/year.md">
-				QuarentenaDev_Alura
-			</a>
-		</td>
-		<td>
-			2022/7/18 12:47 AM UTC
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/252348187/small/year.png" height="20"> 3
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/256079566/year.md">
 				K19_Treinamentos_HTML_CSS_JAVASCRIPT
 			</a>
@@ -901,22 +869,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/323686345/year.md">
-				K19_C_Sharp
-			</a>
-		</td>
-		<td>
-			2022/7/18 12:48 AM UTC
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/EdiJunior88/view_profile/raw/master/graph/323686345/small/year.png" height="20"> 6
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/EdiJunior88/view_profile/tree/master/readme/308116415/year.md">
 				App_Inventor_Projetos_Pessoais
 			</a>
@@ -933,7 +885,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/7/20 12:22 PM UTC</i></small>
+<small><i>Last updated on 2022/7/20 6:19 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
